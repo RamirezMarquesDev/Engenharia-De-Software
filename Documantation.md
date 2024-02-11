@@ -572,7 +572,7 @@ garantindo uma resposta rápida e eficiente do sistema.
 ![](imagens/cadastro.png)
 
 # Obrigado a Todos!
-##### Ramirez Marques De Andrade Campello
+##### Ramirez Marques De Andrade Campello.
 
 
 
